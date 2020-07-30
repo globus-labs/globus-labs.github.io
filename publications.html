@@ -1,4 +1,4 @@
----
+"---
 layout: default
 title: Publications
 ---
@@ -34,7 +34,7 @@ function get_authors(authors){
 function format_bib(data){
     var formated = $("<p>");
  
-    var author_string = get_authors(data["Fields"]["author"].split("and"));
+    var author_string = get_authors(data["Fields"]["author"].split(" and "));
     
     formated.append($("<span>", {"text" : author_string + ". ", "class" : "authors"}));
     formated.append($("</br>"));
