@@ -1,0 +1,7 @@
+---
+layout: news
+title: Greg presents at SC20!
+date:  2020-11-11 10:13:16 -0700
+type: presentation
+---
+Greg will be presenting [his paper on distributed training of CNNs](https://arxiv.org/abs/2007.00784) at [SC20 next Thursday](https://sc20.supercomputing.org/presentation/?id=pap216&sess=sess178)!
