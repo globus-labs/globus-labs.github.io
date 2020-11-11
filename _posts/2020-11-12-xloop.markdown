@@ -1,0 +1,7 @@
+---
+layout: news
+title: Presentations at XLOOP
+date:  2020-11-12 10:13:16 -0700
+type: presentation
+---
+Globus labs has 2 papers in the XLOOP Workshop at SC20: Max is presenting on [controlling manufacutring with AI](https://sc20.supercomputing.org/presentation/?id=ws_xloop103&sess=sess216) and Tekin is presenting on [streaming tomographic reconstruction]
