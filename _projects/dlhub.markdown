@@ -11,9 +11,9 @@ While the Machine Learning (ML) landscape is evolving rapidly, there has been a 
 
 Publications
 
-- Li, Zhuozhao, Ryan Chard, Logan Ward, Kyle Chard, Tyler J. Skluzacek, Yadu Babuji, Anna Woodard et al. "DLHub: Simplifying publication, discovery, and use of machine learning models in science." Journal of Parallel and Distributed Computing 147 (2021): 64-76
+- Li, Zhuozhao, Ryan Chard, Logan Ward, Kyle Chard, Tyler J. Skluzacek, Yadu Babuji, Anna Woodard et al. ["DLHub: Simplifying publication, discovery, and use of machine learning models in science."](../pubs/Li-DLHub-JPDC-2021.pdf) Journal of Parallel and Distributed Computing 147 (2021): 64-76
 
-- Chard, Ryan, Zhuozhao Li, Kyle Chard, Logan Ward, Yadu Babuji, Anna Woodard, Steven Tuecke, Ben Blaiszik, Michael J. Franklin, and Ian Foster. "DLHub: Model and data serving for science." In 2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 283-292. IEEE, 2019.
+- Chard, Ryan, Zhuozhao Li, Kyle Chard, Logan Ward, Yadu Babuji, Anna Woodard, Steven Tuecke, Ben Blaiszik, Michael J. Franklin, and Ian Foster. ["DLHub: Model and data serving for science."](../pubs/Chard_DLHub_2019.pdf) In 2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 283-292. IEEE, 2019.
 
 Other Links
 
