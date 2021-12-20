@@ -1,0 +1,7 @@
+---
+layout: news
+title: Ben Presents on FAIR data, machine learning and automation
+date:  2021-12-14 11:00:00 -0700
+type: presentation
+---
+Ben gave the NIST Office of Data Informatics Monthly Seminar - “A FAIR Approach Towards Fully Realizing the Impact of AI and Machine Learning in Materials Science”
