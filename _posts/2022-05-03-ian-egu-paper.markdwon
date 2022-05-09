@@ -1,0 +1,7 @@
+---
+layout: news
+title: "GMD Paper
+date:  2022-05-03 08:30:00 -0700
+type: paper
+---
+Ian co-authored "Efficient high-dimensional variational data assimilation with machine-learned reduced-order models" which appears in [_Geoscientific Model Development](https://gmd.copernicus.org/articles/15/3433/2022/).
