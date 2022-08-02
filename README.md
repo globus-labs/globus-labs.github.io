@@ -3,6 +3,25 @@
 Material for the Globus Labs web site.
 https://globus.github.io/globus-labs
 
+## Adding News Items
+
+Create a new file in `_posts` following the format of the others:
+
+- A file with the name pattern `YYYY-MM-DD-post-title.markdown`
+- Content with the format 
+
+	```
+	layout: post
+	title: "${title}"
+	date: $post_date $post_time -0700
+	type: $type
+	---
+
+	[Your content here]
+	```
+
+You can use `make_post.py` to do these in one step
+
 ## Adding New Publications
 
 Procedure for adding new publication
