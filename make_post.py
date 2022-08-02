@@ -52,7 +52,7 @@ short_title = "-".join([x.lower() for x in args.title[:3]])
 
 # Format the post
 post = template.substitute(
-    title=" ".join(args.title).capitalize(),
+    title=" ".join(args.title),
     post_date=post_date,
     post_time=datetime.now().strftime('%H:%M:%S'),
     type=args.type
