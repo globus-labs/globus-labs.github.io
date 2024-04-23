@@ -11,6 +11,7 @@ hashtags: [
 github: "https://github.com/Garden-AI/garden"
 website: "https://thegardens.ai"
 teaser: "Garden turns researchers' AI models into citable APIs that run on scientific computing infrastructure."
+featured: true
 active: true
 
 ---

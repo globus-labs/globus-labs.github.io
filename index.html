@@ -89,50 +89,37 @@ title: Globus Labs
 <hr>
 
 
-<h4 class="text-uppercase">Featured Projects</h4>
-<div class="row row-cols-1 row-cols-md-2 row-cols-xl-3">
-    {% for project in site.projects %}
-      {% if project.featured %}
-        <a href="{{ project.url }}" class="text-reset text-decoration-none">
-          <div class="card project-card">
-              <div class="card-body">
-                  <img class="img-responsive" src="images/projects/{{ project.image }}"
-                      style="max-height: 100px;">
-                  <p class="mt-2 link">
-                      <span class="name">{{ project.title }}</span> <br>
-                      {{ project.teaser }}
-                  </p> 
-              </div>
-          </div>
-        </a>
-      {% endif %}
-    {% endfor %}
-</div>
+<div class="row">
 
-
-<hr>
-<h4 class="text-uppercase">Recent News</h4>
-<div class="row row-cols-1 row-cols-md-2 row-cols-xl-4">
-  {% for post in site.posts limit:4 %}
-    <div class="card border-0 text-center">
-      <div class="card-body">
-        <!-- <div class="glyphicon-circle"> -->
-          {% if post.type == 'award' %}
-            <i class="bi bi-award-fill icon-circle"></i>
-          {% elsif post.type == 'paper' %}
-            <i class="bi bi-file-text-fill icon-circle"></i>
-          {% elsif post.type == 'presentation' %}
-            <i class="bi bi-easel2-fill icon-circle"></i>
-          {% elsif post.type == 'join' %}
-            <i class="bi bi-person-plus-fill icon-circle"></i>
-          {% else %}
-            <i class="bi bi-newspaper icon-circle"></i>
-          {% endif %}
-        <!-- </div> -->
-        <p>{{ post.content }}</p>
-      </div>
+  <div class="col-md-7">
+    <h4 class="text-uppercase">Featured Projects</h4>
+    <div class="row row-cols-1 row-cols-md-1 row-cols-xl-2">
+      {% for project in site.projects %}
+        {% if project.featured %}
+          <a href="{{ project.url }}" class="text-reset text-decoration-none">
+            <div class="card project-card">
+                <div class="card-body">
+                    <img class="img-responsive" src="images/projects/{{ project.image }}"
+                        style="height: 100px; width: 150px; object-fit: scale-down;">
+                    <p class="mt-2 link">
+                        <span class="name">{{ project.title }}</span> <br>
+                        {{ project.teaser }}
+                    </p> 
+                </div>
+            </div>
+          </a>
+        {% endif %}
+      {% endfor %}
     </div>
-  {% endfor %}
+  </div>
+
+  <div class="col-md-5">
+    <h4 class="text-uppercase">Recent News</h4>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-xl-4">
+      <a class="twitter-timeline" data-width="600" data-height="500" href="https://twitter.com/LabsGlobus?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+  </div>
+
 </div>
 
 

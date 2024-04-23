@@ -3,7 +3,7 @@ layout: project
 title:  "Parsl"
 image: "parsl-logo.png"
 teaser: "Parallel programming library for Python"
-featured: false
+featured: true
 description: "Parsl is a parallel programming library for Python. It provides a model by which complex workflows can be represented in an intuitive Python-based control application. It facilitates transparent parallel execution of workflow components (apps) on any distributed or parallel computing system."
 ---
 
