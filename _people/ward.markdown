@@ -1,8 +1,8 @@
 ---
 title: "Logan Ward"
 image: "ward.jpg"
-position: "Assistant Scientist"
-department: "Data Science and Learning, JCESR"
+position: "Computational Scientist"
+department: "Data Science and Learning"
 institution: "Argonne National Laboratory"
 email: "lward@anl.gov"
 google_scholar: "https://scholar.google.com/citations?user=PafZ2Z4AAAAJ&hl=en"
