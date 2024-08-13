@@ -9,7 +9,7 @@ hashtags: [
 github: "https://github.com/gpauloski/kfac-pytorch"
 website: 
 teaser: "KAISA is a novel distributed framework for training large models with K-FAC at scale."
-active: true
+active: false
 ---
 
 KAISA is a PyTorch preconditioner that enables efficient and scalable second-order optimization for deep neural networks.
