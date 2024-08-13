@@ -22,10 +22,10 @@ hashtags: [
 github: "https://github.com/proxystore"
 
 [comment]: # Website/homepage/docs or blank if not applicable
-website: "https://proxystore.readthedocs.io/en/latest/"
+website: "https://docs.proxystore.dev"
 
 [comment]: # One-line teaser/description for front page/project page
-teaser: "A data fabric for high-performance, multi-site workloads facilited by transparent object proxies."
+teaser: "Facilitate efficient data flow management in distributed Python applications."
 
 [comment]: # Set to false if the project is no longer maintained
 active: true
@@ -43,8 +43,10 @@ ProxyStore’s goals are to:
 
 #### Publications
 <!-- List the full citations for each paper here with links to where to find it. -->
-Available soon.
+
+- J. Gregory Pauloski, Valerie Hayot-Sasson, Logan Ward, Nathaniel Hudson, Charlie Sabino, Matt Baughman, Kyle Chard, and Ian Foster. 2023. [Accelerating Communications in Federated Applications with Transparent Object Proxies](https://dl.acm.org/doi/10.1145/3581784.3607047). In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC '23). Association for Computing Machinery, New York, NY, USA, Article 59, 1–15. https://doi.org/10.1145/3581784.3607047
+- J. Gregory Pauloski, Valerie Hayot-Sasson, Logan Ward, Alexander Brace, André Bauer, Kyle Chard, Ian Foster. 2024. [Object Proxy Patterns for Accelerating Distributed Applications](https://arxiv.org/abs/2407.01764). arXiv Preprint.
 
 #### Funding and Acknowledgements
 <!-- List any funding sources or other acknowledgements here otherwise remove -->
-Available soon.
+This research was partially supported by the National Science Foundation under Grants 2004894 and 2209919 and by Argonne National Laboratory under U.S. Department of Energy under Contract DE-AC02-06CH11357.
