@@ -7,26 +7,26 @@ layout: project
 title: "XTask"
 
 [comment]: # The image should be added to images/projects/
-image: "TODO.jpg"
+image: "xtask.png"
 
 [comment]: # List of project members.
 people: ["Wenyi Wang", "Ioan Raicu", "Ian Foster", "Kyle Chard"]
 
-[comment]: # List of project tags. Remove all that do not apply
-hashtags: [
-  "Parallel Computing",
-  "High-performance Runtime",
-  "OpenMP"
-]
+# [comment]: # List of project tags. Remove all that do not apply
+# hashtags: [
+#   "Parallel Computing",
+#   "High-performance Runtime",
+#   "OpenMP"
+# ]
 
-[comment]: # GitHub link or blank if not applicable
-github: "TODO"
+# [comment]: # GitHub link or blank if not applicable
+# github: "TODO"
 
-[comment]: # Website/homepage/docs or blank if not applicable
-website: "TODO"
+# [comment]: # Website/homepage/docs or blank if not applicable
+# website: "TODO"
 
 [comment]: # One-line teaser/description for front page/project page
-teaser: "TODO"
+teaser: "Optimizing Fine-Grained Parallelism on OpenMP with NUMA awareness."
 
 [comment]: # Set to false if the project is no longer maintained
 active: true
@@ -55,12 +55,16 @@ An example first paragraph:
       science more accessible."
 -->
 
-TODO: add your project description here.
+<!-- TODO: add your project description here. -->
+High synchronization overhead in frameworks like GNU OpenMP impedes fine-grained task parallelism on many-core architectures. We introduce three advances to GNU OpenMP: a lock-less concurrent queue (XQueue), a scalable distributed tree barrier, and two NUMA-aware, lock-less load-balancing strategies.
+
+Evaluated with Barcelona OpenMP Task Suite (BOTS) benchmarks, our XQueue and tree barrier improve performance by up to 1522.8× over the original GNU OpenMP. The load-balancing strategies provide an additional performance improvement of up to 4×.
 
 #### Publications
 <!-- List the full citations for each paper here with links to where to find it. -->
 
-- J. Bester, I. Foster, C. Kesselman, J. Tedesco, and S. Tuecke. Gass: [A data movement and access service for wide area computing systems](https://dl.acm.org/doi/pdf/10.1145/301816.301839). In ACM Workshop on I/O in parallel and distributed systems, pages 78–88, 1999.
+- W. Wang, M. Gonthier, H. Lai, P. Nookala, H. Pan, I. Foster, I. Raicu, K. Chard: [Exploring Fine-Grained Parallelism in Data-flow Runtime Systems on Many-Core Systems](https://sc25.supercomputing.org/proceedings/posters/poster_pages/post147.html). Proceedings of the SC '25 Research Posters of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC Posters'25)
+- W. Wang, M. Gonthier, P. Nookala, H. Pan, I. Foster, I. Raicu, K. Chard: [Optimizing Fine-Grained Parallelism Through Dynamic Load Balancing on Multi-Socket Many-Core Systems](https://doi.ieeecomputersociety.org/10.1109/IPDPS64566.2025.00016). 2025 IEEE International Parallel and Distributed Processing Symposium (IPDPS25)
 
-#### Funding and Acknowledgements
+<!-- #### Funding and Acknowledgements -->
 <!-- List any funding sources or other acknowledgements here otherwise remove -->
