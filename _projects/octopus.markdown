@@ -41,6 +41,8 @@ Modern science relies on a distributed research infrastructure that generates la
 
 #### Publications
 - Pan, Haochen, Ryan Chard, Sicheng Zhou, Alok Kamatar, Rafael Vescovi, Valérie Hayot-Sasson, André Bauer, Maxime Gonthier, Kyle Chard, and Ian Foster. [Octopus: Experiences with a hybrid event-driven architecture for distributed scientific computing.](https://arxiv.org/abs/2407.11432) In SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 496-507. IEEE, 2024.
+- Zhou, Sicheng, Zhuozhao Li, Valérie Hayot-Sasson, Haochen Pan, Maxime Gonthier, J. Gregory Pauloski, Ryan Chard, Kyle Chard, and Ian Foster. [Wrath: Workload Resilience Across Task Hierarchies in Task-Based Parallel Programming Frameworks](https://doi.org/10.1109/CCGRID64434.2025.00058). In 2025 IEEE 25th International Symposium on Cluster, Cloud and Internet Computing (CCGrid), pp. 1–11. IEEE, 2025.
+- Pan, Haochen, Ryan Chard, Reid Mello, Christopher Grams, Tanjin He, Alexander Brace, Owen Price Skelly, Will Engler, Hayden Holbrook, Song Young Oh, Maxime Gonthier, Michael Papka, Ben Blaiszik, Kyle Chard, and Ian Foster. [Experiences with Model Context Protocol Servers for Science and High Performance Computing.](https://arxiv.org/abs/2508.18489) arXiv preprint arXiv:2508.18489, 2025.
 
 #### Funding and Acknowledgements
 We thank the entire team of the Diaspora Project for their
