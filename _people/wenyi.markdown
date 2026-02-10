@@ -7,5 +7,5 @@ institution: "University of Chicago"
 email: "wenyiw@uchicago.edu"
 ranking: 39
 linkedin: "https://www.linkedin.com/in/wenyi-wang-cs/"
-web: "https://wenyiwang.me/"
+web: "https://wenyiwang-us.github.io/"
 ---
