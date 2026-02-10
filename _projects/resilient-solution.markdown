@@ -1,16 +1,16 @@
 ---
 
 [comment]: # Do not change the layout
-layout: Resilient Solutions
+layout: project
 
 [comment]: # Project title
-title: ""
+title: "Resilient Solutions"
 
 [comment]: # The image should be added to images/projects/
-image: "reslient-solutions.png"
+image: "resilient-solutions.png"
 
 [comment]: # List of project members.
-people: ["Hai Nguyen", "Kyle Chard", "Ian Foster"]
+people: ["Hai Duc Nguyen", "Kyle Chard", "Ian Foster"]
 
 [comment]: # List of project tags. Remove all that do not apply
 hashtags: [
