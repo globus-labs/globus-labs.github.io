@@ -3,6 +3,7 @@ layout: project
 title:  "GLassBox"
 teaser: "Interpretability Tools for Understanding ML models"
 featured: false
+image: "glassbox.png"
 people: Jordan Pettyjohn, Arham Khan, Mansi Sakarvadia, Aswathy Ajith
 description: "GLassBox is a suite of projects that facilitates a deeper understanding of complex AI models."
 ---
