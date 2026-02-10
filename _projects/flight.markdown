@@ -48,7 +48,10 @@ Flight's goals are to:
 #### Publications
 <!-- List the full citations for each paper here with links to where to find it. -->
 
-- Nikita Kotsehub, Matt Baughman, Ryan Chard, Nathaniel Hudson, Panos Patros, Omer Rana, Ian Foster, and Kyle Chard. 2022. [FLoX: Federated learning with FaaS at the edge](https://ieeexplore.ieee.org/abstract/document/9973578/). 2022 IEEE 18th International Conference on e-Science (e-Science). IEEE, 2022. 
+- Nathaniel Hudson, Valerie Hayot-Sasson, Yadu Babuji, Matt Baughman, J. Gregory Pauloski, Ryan Chard, Ian Foster, and Kyle Chard. [Flight: A FaaS-based framework for complex and Hierarchical Federated Learning,
+](https://www.sciencedirect.com/science/article/pii/S0167739X25002936). Future Generation Computer Systems. 2025.
+
+- Nikita Kotsehub, Matt Baughman, Ryan Chard, Nathaniel Hudson, Panos Patros, Omer Rana, Ian Foster, and Kyle Chard. 2022. [FLoX: Federated learning with FaaS at the edge](https://ieeexplore.ieee.org/abstract/document/9973578/). IEEE 18th International Conference on e-Science (e-Science). IEEE, 2022. 
 
 - Nathaniel Hudson, Valerie Hayot-Sasson, Yadu Babuji, Matt Baughman, J. Gregory Pauloski, Ryan Chard, Ian Foster, and Kyle Chard. 2025. [Flight: A FaaS-Based Framework for Complex and Hierarchical Federated Learning](https://arxiv.org/pdf/2409.16495). Future Generation Computer Systems, 2025.
 

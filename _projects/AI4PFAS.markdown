@@ -4,7 +4,7 @@ title:  "AI4PFAS"
 image: "ci1c01204_0009-2.jpeg"
 teaser: "Deep learning workflow and dataset for toxicity prediction."
 featured: true
-active: true
+active: false
 description: "AI4PFAS is a suite of deep learning based software workflow and benchmark datasets for modeling PFAS toxicity."
 ---
 

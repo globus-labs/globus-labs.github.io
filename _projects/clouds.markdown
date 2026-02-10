@@ -4,6 +4,7 @@ title:  "Clouds"
 image: "clouds.png"
 teaser: "Self-supervised data-driven methods for the application on big satellite clouds imagery"
 featured: false
+active: false
 github: https://github.com/RDCEP/clouds
 hashtags: ["#AI4Science", "#AI/ML", "Climate"]
 people: ["Ian Foster", "Takuya Kurihana"]
