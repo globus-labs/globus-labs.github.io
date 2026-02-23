@@ -4,7 +4,7 @@ image: "hai-nguyen.jpg"
 position: "Postdoctoral Appointee"
 department: "Data Science and Learning Division"
 institution: "Argonne National Laboratory"
-ranking: 23
+ranking: 27
 email: "hai.nguyen@anl.gov"
 google_scholar: "https://scholar.google.com/citations?user=hKRHcocAAAAJ"
 linkedin: "https://www.linkedin.com/in/haiducnguyen"
