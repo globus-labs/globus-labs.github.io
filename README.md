@@ -35,7 +35,7 @@ Procedure for adding new publication
 	- For conference and workshop publications: Add conference or workshop name (in the format of `Proceedings of <conference-name-here>`)
 	- Note: Only add publication to the top of the bibtex document if it is a new publication. If it is not new, check the dates of the other publications and add yours in its correct chronological place in the document.
 	
-3. Add both files into the git repo and verify appearance on the [Globus Labs website](https://labs.globus.org/publications.html) within 5 minutes or so.
+3. Add both files into the git repo. The [GitHub Actions workflow](https://github.com/globus-labs/globus-labs.github.io/actions/workflows/pages/pages-build-deployment) will automatically build and deploy the site — verify appearance on the [Globus Labs website](https://labs.globus.org/publications.html) within a few minutes.
 
 ***
 
