@@ -2,7 +2,7 @@
 title: "Yadu Nand Babuji"
 image: "babuji.jpg"
 position: "Senior Software Engineer"
-department: "Computation Institute"
+department: "Globus"
 institution: "University of Chicago"
 ranking: 13
 ---
